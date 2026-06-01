@@ -4,7 +4,6 @@ author: "Jorge Sanz"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
 repository: jsanz/gh-pages-minima-starter
 
 # Minima social links
@@ -34,3 +33,4 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - vendor

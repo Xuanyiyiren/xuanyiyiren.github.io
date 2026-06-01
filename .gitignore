@@ -5,3 +5,5 @@ _site/
 .vscode
 **/*.swp
 env
+
+vendor
