@@ -1,14 +1,15 @@
-title: My blog
+title: AppliedSO3's blog
 description: My very nice blog
-author: "Jorge Sanz"
+author: "AppliedSO3"
+email: "xuanzhang2002@gmail.com"
 
 theme: minima
 
-repository: jsanz/gh-pages-minima-starter
+repository: Xuanyiyiren/xuanyiyiren.github.io
 
 # Minima social links
-github_username: jsanz
-linkedin_username: jsanz
+github_username: Xuanyiyiren
+# linkedin_username: jsanz
 rss: rss
 
 # Minima: show excerpts in the frontpage
