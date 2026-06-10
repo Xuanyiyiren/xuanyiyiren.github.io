@@ -52,6 +52,34 @@ layout: post
 - [mcmod](https://www.mcmod.cn/class/1191.html)
 - [curseforge](https://www.curseforge.com/minecraft/mc-mods/controlling)
 
+### 东寻西觅(FindMe)
+
+FindMe 可让玩家通过按键查找附近容器中的物品。前期物品管理系统尚未建立的时候，非常有用。
+
+- [mcmod](https://www.mcmod.cn/class/2156.html)
+- [curseforge](https://www.curseforge.com/minecraft/mc-mods/findme)
+
+### Trade Cycling
+
+方便刷交易，不用再反复破坏交易方块了。
+
+- [mcmod](https://www.mcmod.cn/class/9863.html)
+- [curseforge](https://www.curseforge.com/minecraft/mc-mods/trade-cycling)
+
+### 精妙背包
+
+非常好用的背包模组。虽然会有点影响玩法，但是其影响在很多整合包里面已经很轻了。
+
+- [mcmod](https://www.mcmod.cn/class/3739.html)
+- [curseforge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+
+### 精妙背包：JEI 索引升级(Sophisticated JEI Index)
+
+把背包当成物品栏用，非常方便，不再需要翻找背包了。
+
+- [mcmod](https://www.mcmod.cn/class/25629.html)
+- [curseforge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-jei-index)
+
 ## 玩法类
 
 这类模组往往构成核心玩法，其实不能叫有不有用，应该说，好不好玩。
